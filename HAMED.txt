@@ -1,0 +1,15 @@
+cd d:\001phd\2OpenCV\project1\final
+pyuic5 dermoscopic_classifier.ui –o dermoscopic_classifier.py
+pyuic5 demoGraphicsView7.ui –o demoGraphicsView7.py
+pip install pyinstaller
+pyinstaller Call_Project_GUI_3.py
+ background-color: rgb(152, 111, 255);
+#4acf35   74 207 53
+pyuic5 GraphicsView.ui –o GraphicsView.py
+
+
+conda install -c conda-forge nibabel
+conda install -c conda-forge/label/gcc7 nibabel
+
+conda install -c anaconda mayavi
+pyinstaller dermatology.py
