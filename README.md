@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Hamed-Aghapanah/yolo8-based-aircraft-detection/blob/main/yolo8_airplane.gif" width="600"/>
+  <img src="https://github.com/Hamed-Aghapanah/GUI-of-Dermoscpy-image/blob/main/GUI%20Dermatology.gif" width="600"/>
   <div>&nbsp;</div>
   <div align="center">
     <b><font size="5">Hamed Aghapanah </font></b>
